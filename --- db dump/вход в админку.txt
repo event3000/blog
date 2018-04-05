@@ -1,0 +1,4 @@
+blog/admin (вход в админку)
+
+login: admin@admin.com
+password: 123
